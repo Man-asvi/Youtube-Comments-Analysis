@@ -59,7 +59,7 @@ plot_sentiments <- function(sentiments_df) {
 }
 
 # Main Script
-api_key <-  "AIzaSyBy9J3QjoZ5EVyeE68isDPzSTQQ6RVkMZw"
+api_key <-  " "
 video_url <- "https://youtu.be/KvN3JXICzdM?si=EjbunUf-_yf8wj-D"
 
 comments <- fetch_comments(video_url, api_key)
