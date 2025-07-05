@@ -1,4 +1,4 @@
-# 📊 YouTube Comments Sentiment Analysis 🎥🧠  
+# YouTube Comments Sentiment Analysis 
 _Analyze sentiment in YouTube video comments using R_
 
 ![License](https://img.shields.io/badge/license-MIT-green)
