@@ -1,7 +1,6 @@
 # YouTube Comments Sentiment Analysis 
 _Analyze sentiment in YouTube video comments using R_
 
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/Language-R-blue)
 ![NLP](https://img.shields.io/badge/Sentiment-Analysis-orange)
 
